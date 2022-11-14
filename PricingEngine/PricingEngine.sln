@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricingEngine", "PricingEngine\PricingEngine.csproj", "{1B61351B-3D2C-4F4A-A2B5-628FB41E5A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B61351B-3D2C-4F4A-A2B5-628FB41E5A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B61351B-3D2C-4F4A-A2B5-628FB41E5A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B61351B-3D2C-4F4A-A2B5-628FB41E5A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B61351B-3D2C-4F4A-A2B5-628FB41E5A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC56BE60-0104-4C19-85F2-9150A4BA592B}
+	EndGlobalSection
+EndGlobal
